@@ -2,3 +2,6 @@
 # TEST HTTP
 GET http://localhost:8080/api/a
 
+### NAME?
+# TEST2FF HTTP
+GET http://localhost:8080/api/b?codes=a,b,cd,e
